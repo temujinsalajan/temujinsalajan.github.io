@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Temugin's GitHub Page</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f0f4f8;
+      color: #2c3e50;
+      text-align: center;
+      padding: 60px;
+    }
+    h1 {
+      font-size: 36px;
+      margin-bottom: 10px;
+    }
+    h2 {
+      font-size: 24px;
+      color: #555;
+      margin-bottom: 30px;
+    }
+    p {
+      font-size: 18px;
+      max-width: 600px;
+      margin: 0 auto 20px;
+    }
+    .btn {
+      padding: 12px 24px;
+      background-color: #007acc;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 30px;
+    }
+    .btn:hover {
+      background-color: #005f99;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Hello, I'm Temugin 👋</h1>
+  <h2>Welcome to my GitHub Page</h2>
+
+  <p>I'm currently learning Python and enjoying the journey of becoming a programmer. I'm interested in building simple apps, solving problems, and eventually working on bigger projects.</p>
+
+  <p>I'm using this page to share my progress, experiments, and whatever cool things I create along the way. If you're also learning, feel free to connect—we can learn together!</p>
+
+  <p>Thanks for stopping by!</p>
+
+  <button class="btn" onclick="alert('Nice to meet you!')">Say Hi</button>
+
+</body>
+</html>
